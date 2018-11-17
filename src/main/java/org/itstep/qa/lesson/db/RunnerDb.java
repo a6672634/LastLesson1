@@ -1,5 +1,5 @@
 package org.itstep.qa.lesson.db;
- 
+
 import java.sql.*;
 
 public class RunnerDb {
